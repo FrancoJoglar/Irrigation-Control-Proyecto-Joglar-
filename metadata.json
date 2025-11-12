@@ -1,0 +1,5 @@
+{
+  "name": "Franco's DripOperation",
+  "description": "An application to streamline and organize agricultural irrigation and fertigation requests. It helps field managers submit structured requests and allows supervisors to view, filter, and manage them from a centralized dashboard.",
+  "requestFramePermissions": []
+}
